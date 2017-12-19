@@ -1,14 +1,14 @@
 ##Bhutan
-## population
+## population: 797,000
 
 
-## capital
+## capital: Thimphu
 
  
-## official language
+## official language: Dzongkha
 
 
-## interesting trivia
+## interesting trivia: known as Land of the Thunder Dragon
 
 
 
